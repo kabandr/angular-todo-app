@@ -11,7 +11,7 @@
 - [x] Create basic application with ```ng new AppName```
 - [x] Create a new Component (Todo) with Angular CLI
 - [x] Add Todo Template
-- [ ] Style the todo app
+- [x] Style the todo app
 - [ ] Add global styles to angular.json
 - [ ] Todo Service
 - [ ] CRUD Functionality
