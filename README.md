@@ -3,13 +3,13 @@
 
 ## Prerequisites
 
-- [Node.js](https:/node.js) 
+- [Node.js](https://nodejs.org/en/) 
 - [Angular CLI](https://github.com/angular/angular-cli)
 
 ## TODO
 
 - [x] Create basic application with ```ng new AppName```
-- [ ] Create a new Component (Todo) with Angular CLI
+- [x] Create a new Component (Todo) with Angular CLI
 - [ ] Add Todo Template
 - [ ] Style the todo app
 - [ ] Add global styles to angular.json
