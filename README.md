@@ -1,6 +1,27 @@
 # Angular Todo App
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.4.
+
+## Prerequisites
+
+- [Node.js](https:/node.js) 
+- [Angular CLI](https://github.com/angular/angular-cli)
+
+## TODO
+
+- [x] Create basic application with ```ng new AppName```
+- [ ] Create a new Component (Todo) with Angular CLI
+- [ ] Add Todo Template
+- [ ] Style the todo app
+- [ ] Add global styles to angular.json
+- [ ] Todo Service
+- [ ] CRUD Functionality
+- [ ] Routing and Navigation
+- [ ] Clearing out completed tasks
+- [ ] Checking off tasks enhancements
+- [ ] Deploying the app
+- [ ] Troubleshooting
+- [ ] What’s next? Build Server API
+
 
 ## Development server
 
