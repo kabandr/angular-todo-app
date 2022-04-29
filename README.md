@@ -12,8 +12,8 @@
 - [x] Create a new Component (Todo) with Angular CLI
 - [x] Add Todo Template
 - [x] Style the todo app
-- [ ] Add global styles to angular.json
-- [ ] Todo Service
+- [x] Add global styles to angular.json
+- [x] Todo Service
 - [ ] CRUD Functionality
 - [ ] Routing and Navigation
 - [ ] Clearing out completed tasks
